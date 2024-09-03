@@ -25,3 +25,9 @@ print (( 2 * ( 2 + 2 )) == ( (2 * 2 ) + 2 ))
 #4th program
 print ((123.456 / 1.0 ) * 10)
 print (int (1234.56 % 10))
+A = 'Топинамбур'
+print (A[0])
+print (A[-1])
+print (A[5:10])
+print (A[::-1])
+print (A [1:10:2])
