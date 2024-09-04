@@ -25,6 +25,15 @@ print (age + new_age)
 name = 'is_student'
 print (name, name == name)
 
+#module_1_4
+name = input ("Как тебя зовут? " )
+print ('Привет,' , name. upper())
+print ("привет," , name. lower())
+print ('Мы рады Вас видеть на нашем сайте' .replace( " " ,''))
+print ('Мы рады Вас видеть на нашем сайте' .replace('Мы рады Вас видеть на нашем сайте' , 'М'))
+print ('Мы рады Вас видеть на нашем сайте' .replace('Мы рады Вас видеть на нашем сайте' , 'е'))
+
+
 
 
 
